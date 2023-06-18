@@ -28,12 +28,20 @@
 
 .screen11 
 {
+    border-color: rgb(96, 96, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(0, 0, 0);
     margin-left: 100px;
     text-align: left;
     padding : 25px;
 }
 .screen21
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(42, 255, 42);
     text-align: left;
     padding : 25px;
     margin-top: -40px;
@@ -41,12 +49,20 @@
 }
 .screen31
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(42, 255, 42);
     margin-left: 100px;
     text-align: left;
     padding : 25px;
 }
 .screen12
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     
     margin-left: 30px;
     text-align: left;
@@ -54,12 +70,20 @@
 }
 .screen22
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     margin-left: 30px;
     text-align: left;
     padding : 25px;
 }
 .screen32
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     margin-left: 30px;
     text-align: left;
     padding : 25px;
@@ -67,6 +91,10 @@
 
 .screen13
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     margin-left: 100px;
     margin-top: 35px;    
     text-align: left;
@@ -74,6 +102,10 @@
 }
 .screen23
 {
+    border-color: rgb(249, 164, 6);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(171, 112, 10);
     margin-left: 100px;
     margin-top: 35px;    
     text-align: left;
@@ -81,6 +113,10 @@
 }
 .screen33
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     margin-left: 100px;
     margin-top: 35px;    
     text-align: left;
@@ -88,18 +124,30 @@
 }
 .screen14
 {
+    border-color: rgb(249, 164, 6);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(171, 112, 10);
     margin-left: 30px;
     text-align: left;
     padding : 25px;
 }
-.screen14
+/* .screen14
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     margin-top: 35px;    
     text-align: left;
     padding : 25px;
-}
+} */
 .screen24
 {
+    border-color: rgb(3, 255, 96);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(48, 135, 48);
     margin-top: 35px;  
     margin-left: 28px;  
     text-align: left;
@@ -107,6 +155,10 @@
 }
 .screen34
 {
+    border-color: rgb(249, 164, 6);
+    border-radius: 10px;
+    background-color: white;
+    color: rgb(171, 112, 10);
     margin-top: 35px;   
     margin-left: 28px;   
     text-align: left;
