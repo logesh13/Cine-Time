@@ -1,0 +1,164 @@
+.screen
+{
+    width : 1800px;
+    height :70px;
+}
+.price
+{
+    margin-top: 2px;
+    font-size: 15px;
+}
+.budget
+{
+    text-align: left;
+    margin-top: -10px;
+}
+.desc
+{
+    margin-top: -25px;
+    margin-left :15px;
+    text-align: left;
+}
+.a1 
+{ 
+    margin-left: -20px; 
+    text-align: left;
+    padding :7px
+}
+.a2 , .a3 , .a4 , .a5  , .a7 , .a8 , .a9 , .a10  ,.a11,.a12,.a13,.a14,.a15,.a16,.a17,.a18,.a19,.a20
+{
+    margin-left: 20px;
+    padding: 7px;
+}
+.a6 , .a11 , .a16
+{ 
+    margin-left: 70px; 
+    padding :7px
+}
+.price
+{
+    color: red;
+}
+.gre
+{
+    margin-left: -20px; 
+    text-align: left;
+    padding :7px;
+    background-color: rgb(49, 255, 104);
+}
+.gre2
+{
+    margin-left: 20px;
+    text-align: left;
+    padding :7px;
+    background-color: rgb(49, 255, 104);
+}
+.gre6
+{
+    margin-left: 70px; 
+    text-align: left;
+    padding :7px;
+    background-color: rgb(49, 255, 104);
+}
+.a1:hover
+{
+    background-color: greenyellow;
+}
+.a2:hover
+{
+    background-color: greenyellow;
+}
+.a3:hover
+{
+    background-color: greenyellow;
+}
+.a4:hover
+{
+    background-color: greenyellow;
+}
+.a5:hover
+{
+    background-color: greenyellow;
+}
+.a6:hover
+{
+    background-color: greenyellow;
+}
+.a7:hover
+{
+    background-color: greenyellow;
+}
+.a8:hover
+{
+    background-color: greenyellow;
+}
+.a9:hover
+{
+    background-color: greenyellow;
+}
+.a10:hover
+{
+    background-color: greenyellow;
+}
+.a11:hover
+{
+    background-color: greenyellow;
+}
+.a12:hover
+{
+    background-color: greenyellow;
+}
+.a13:hover
+{
+    background-color: greenyellow;
+}
+.a14:hover
+{
+    background-color: greenyellow;
+}
+.a15:hover
+{
+    background-color: greenyellow;
+}
+.a16:hover
+{
+    background-color: greenyellow;
+}
+.a17:hover
+{
+    background-color: greenyellow;
+}
+.a18:hover
+{
+    background-color: greenyellow;
+}
+.a19:hover
+{
+    background-color: greenyellow;
+}
+.a20:hover
+{
+    background-color: greenyellow;
+}
+.a1:active
+{
+    color: white;
+    background-color: green;    
+}
+.a1::after
+{
+    background: transparent;
+}
+.a1:active
+{
+    color: white;
+    background-color: green;
+}
+.bookticket
+{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black;
+}

@@ -1,0 +1,114 @@
+.time , .time1
+{
+    
+    text-align: left;
+    padding : 25px;
+}
+.movietext
+{
+    margin-top: -40px;
+    text-align: right;
+}
+.movietext1
+{
+    margin-top: -60px;
+    text-align: right;
+}
+.screenno
+{
+    
+    margin-top: -0px;
+}
+
+.screen1 , .screen2 , .screen3 
+{
+    
+    height: min-content;
+}
+
+.screen11 
+{
+    margin-left: 100px;
+    text-align: left;
+    padding : 25px;
+}
+.screen21
+{
+    text-align: left;
+    padding : 25px;
+    margin-top: -40px;
+    margin-left: 100px;
+}
+.screen31
+{
+    margin-left: 100px;
+    text-align: left;
+    padding : 25px;
+}
+.screen12
+{
+    
+    margin-left: 30px;
+    text-align: left;
+    padding : 25px;
+}
+.screen22
+{
+    margin-left: 30px;
+    text-align: left;
+    padding : 25px;
+}
+.screen32
+{
+    margin-left: 30px;
+    text-align: left;
+    padding : 25px;
+}
+
+.screen13
+{
+    margin-left: 100px;
+    margin-top: 35px;    
+    text-align: left;
+    padding : 25px;
+}
+.screen23
+{
+    margin-left: 100px;
+    margin-top: 35px;    
+    text-align: left;
+    padding : 25px;
+}
+.screen33
+{
+    margin-left: 100px;
+    margin-top: 35px;    
+    text-align: left;
+    padding : 25px;
+}
+.screen14
+{
+    margin-left: 30px;
+    text-align: left;
+    padding : 25px;
+}
+.screen14
+{
+    margin-top: 35px;    
+    text-align: left;
+    padding : 25px;
+}
+.screen24
+{
+    margin-top: 35px;  
+    margin-left: 28px;  
+    text-align: left;
+    padding : 25px;
+}
+.screen34
+{
+    margin-top: 35px;   
+    margin-left: 28px;   
+    text-align: left;
+    padding : 25px;
+}

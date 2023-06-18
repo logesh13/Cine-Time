@@ -1,0 +1,58 @@
+div.receipt
+{
+    margin-left:700px;
+    width: 500px;
+    height: 800px;
+    text-align: center;
+    border: 7px solid black;
+    border-color: black;
+}
+.pricereceipt
+{
+    margin-top:80px;
+    margin-left:-80px;
+}
+.qr
+{
+    margin-left : 60px;
+    margin-top: 25px;
+    border: 2px solid grey;
+    float: center;
+    border-width: 15px;
+    width: 150px;
+    heigth : 150px;
+}
+.scan
+{
+    margin-left:-10px;  
+    margin-top: -100px;
+    float: right;
+}
+.disclaimer
+{
+     margin-left: 300px;;
+}
+.fin
+{
+    color: red;
+}
+.botrece
+{
+    background-color: grey;
+}
+.theatre
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title
+{
+    background-color: grey;
+    height: 50px;
+}
+.container .image
+{
+    margin-right: 10px;
+    height: 250px;
+    width:270px;   
+    float: right;
+}

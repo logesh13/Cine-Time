@@ -1,0 +1,31 @@
+.sample .movielist 
+{
+    margin-top: -0px;
+    height: 100px;
+    width: 100px;
+}
+.sample2 .movielist 
+{
+    margin-top: -0px;
+    height: 100px;
+    width: 100px;
+}
+.sample,.sample2
+{
+    text-align: left;
+    height: 100px;
+    background-color: #F6F6F6 ;
+}
+.moviename
+{
+    margin-top : -100px;
+    margin-left : 120px;
+}
+.directorname
+{
+    margin-left : 120px;
+}
+.rating
+{
+    margin-left : 120px;
+}
